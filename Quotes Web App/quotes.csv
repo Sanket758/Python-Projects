@@ -1,0 +1,109 @@
+quote,author,sentiment_score,index
+"Pain is inevitable, but misery is optional.",Tim Hansel,-0.802,0
+"To avoid criticism, do nothing, say nothing, be nothing.",Elbert Hubbard,-0.6249,1
+Believe and act as if it were impossible to fail.,Charles Kettering,-0.5423,2
+Never get out of the boat. Absolutely goddamn right. Unless you were goin' all the way.,Captain Willard,-0.5256,3
+Nobody can make you feel inferior without your consent.,Eleanor Roosevelt,-0.5213,4
+What we fear doing most is usually what we most need to do.,Tim Ferriss,-0.4939,5
+Everything you’ve ever wanted is on the other side of fear.,George Addair,-0.4939,6
+Success is going from failure to failure without losing your enthusiasm.,Winston Churchill,-0.4805,7
+"If there is no struggle, there is no progress.",Frederick Douglass,-0.4404,8
+There are no short cuts to any place worth going.,Beverly Sills,-0.3612,9
+"In each business, we have two strands: the day-to-day, and the future group thinking, 'How do I disrupt myself?' The people running it can't be the same ones thinking about its disruption.",Martin Reeves,-0.3612,10
+No person will have occasion to complain of the want of time who never loses any.,Thomas Jefferson,-0.3481,11
+The most common form of despair is not being who you are.,Kurt Vonnegut,-0.3182,12
+There are no traffic jams along the extra mile.,Roger Staubach,-0.296,13
+"Do it trembling if you must, but do it!",Emmet Fox,-0.2598,14
+"Money is, in some respects, like fire. It is a very excellent servant, but a terrible master.",P. T. Barnum,-0.2391,15
+"If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.",Nora Roberts,-0.2263,16
+And it is awfully hard to come up with those ideas if you don't have any time to think.,Paul B. Brown,-0.1761,17
+You miss 100% of the shots you don’t take.,Wayne Gretzky,-0.1531,18
+Every next level of your life will demand a different version of you.,Unknown,-0.128,19
+Every strike brings me closer to the next home run.,Babe Ruth,-0.128,20
+Obsessed is just a word the lazy use to describe the dedicated.,Russell Warren,-0.0516,21
+"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",Bernard M. Baruch,-0.0382,22
+"When you come to a roadblock, take a detour.",Mary Kay Ash,0.0,23
+Believe you can and you’re halfway there.,Theodore Roosevelt,0.0,24
+"Do what you can, where you are, with what you have.",Teddy Roosevelt,0.0,25
+"Even if you’re on the right track, you’ll get run over if you just sit there.",Will Rogers,0.0,26
+Life is 10% what happens to you and 90% how you react to it.,Charles R. Swindoll,0.0,27
+Life's simple. You make choices and you don't look back.,Han,0.0,28
+I will go anywhere as long as it is forward.,David Livingston,0.0,29
+"If you can’t outplay them, outwork them.",Ben Hogan,0.0,30
+The difference between ordinary and extraordinary is that little extra.,Jimmy Johnson,0.0,31
+Don't live the same day over and over again and call that a life.,Germany Kent,0.0,32
+"When you talk, you are only repeating what you already know. But if you listen, you may learn something new.",The Dalai Lama,0.0,33
+"If you have some power, then your job is to empower somebody else.",Toni Morrison,0.0,34
+The price of anything is the amount of life you exchange for it.,Henry David Thoreau,0.0,35
+Light tomorrow with today.,Elizabeth Barrett Browning,0.0,36
+"Always make a total effort, even when the odds are against you.",Arnold Palmer,0.0,37
+It is never too late to be what you might have been.,George Eliot,0.0,38
+Forever is composed of nows.,Emily Dickinson,0.0,39
+The power of imagination makes us infinite.,John Muir,0.0,40
+"Learn from yesterday, live for today, look to tomorrow, rest this afternoon.",Charles M. Schulz,0.0,41
+Don’t wait. The time will never be just right.,Napoleon Hill,0.0,42
+How Everyone you Will Ever Meet Knows Something that You Don't.,Bill Nye,0.0,43
+You've got to bumble forward into the unknown.,Frank Gehry,0.0,44
+"If you have everything under control, you’re not moving fast enough.",Mario Andretti,0.0,45
+I don't know who my grandfather was; I am much more concerned to know what his grandson will be.,Abraham Lincoln,0.0,46
+You must do what others don't to achieve what others won't.,Les Brown,0.0,47
+Very often a change of self is needed more than a change of scene.,Arthur Christopher Benson,0.0,48
+"It’s not whether you get knocked down, it’s whether you get up.",Vince Lombardi,0.0,49
+One thing modeling taught me is that the spotlight can change everything.,Liya Kebede,0.0,50
+The dreamers are the saviors of the world.,James Allen,0.0,51
+"If you aren’t going all the way, why go at all?",Joe Namath,0.0,52
+"Don’t count the days, make the days count.",Muhammad Ali,0.0,53
+Change your thoughts and you change your world.,Norman Vincent Peale,0.0,54
+"It does not do to leave a live dragon out of your calculations, if you live near him.","J.R.R. Tolkien, The Hobbit or There and Back Again",0.0382,55
+"Tough times never last, but tough people do.",Dr. Robert Schuller,0.0785,56
+"The more I want to get something done, the less I call it work.",Richard Bach,0.1513,57
+"A person who is nice to you, but rude to the waiter, is not a nice person.",Dave Barry,0.1531,58
+It does not matter how slowly you go as long as you do not stop.,Confucius,0.2057,59
+"Try not. Do, or do not. There is no try.",Yoda,0.2235,60
+Our dreams feel real while we're in them. It's only when we wake we realize things were strange,"Cobb, Inception",0.2263,61
+"The gateway skill to good time management is when you ask not just what you need to do, but how long it will take.",Julie Morgenstern,0.2382,62
+"Life is not a problem to be solved, but a reality to be experienced.",Soren Kierkegaard,0.2912,63
+Every moment is a fresh beginning.,T.S. Eliot,0.3182,64
+"Waking up this morning, I smile. 24 brand new hours are before me. I vow to live fully in each moment.",Thich Nhat Hanh,0.3612,65
+"Sell a man a fish, he eats for a day. Teach a man how to fish, you ruin a wonderful business opportunity.",Karl Marx,0.4019,66
+You must be the change you wish to see in the world.,Gandhi,0.4019,67
+A year from now you may wish you had started today.,Karen Lamb,0.4019,68
+"If you don’t build your dreams, someone will hire you to build theirs.",Tony Gaskins,0.4019,69
+"You must be the person you have never had the courage to be. Gradually, you will discover that you are that person, but until you can see this clearly, you must pretend and invent.",Paulo Coelho,0.4163,70
+"The harder I work, the luckier I get.",Gary Player,0.4404,71
+Just keep going. Everybody gets better if they keep at it.,Ted Williams,0.4404,72
+The road to Easy Street goes through the sewer.,John Madden,0.4404,73
+"'What day is it?' asked Pooh. 'It’s today,' squeaked Piglet. 'My favorite day,' said Pooh.",A.A. Milne,0.4588,74
+"The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.",Henry Ford,0.4671,75
+"People love to buy, they don't like to be sold.",Matthew Pollard,0.4749,76
+"Few ""great"" ideas come from an individual; instead, they’re gradually expanded on and improved by a team or network of individuals.",Jayson DeMers,0.4767,77
+It takes courage to grow up and become who you really are.,E.E. Cummings,0.4939,78
+Keep your face to the sunshine and you can never see the shadow.,Helen Keller,0.4939,79
+Don’t downgrade your dream just to fit your reality.,Stuart Scott,0.5423,80
+Look at everything always as though you were seeing it either for the first or last time: Thus is your time on earth filled with glory.,Betty Smith,0.5423,81
+"The trick is to enjoy life. Don't wish away your days, waiting for better ones ahead.",Marjorie Pay Hinckley,0.5635,82
+Action is the foundational key to all success.,Pablo Picasso,0.5719,83
+There is only one success: to be able to spend your life in your own way.,Christopher Morley,0.5719,84
+"Life is beautiful, as long as it consumes you.",Socrates,0.5994,85
+Make each day your masterpiece.,John Wooden,0.6249,86
+Do what you love and the money will follow.,Marsha Sinetar,0.6369,87
+The best way out is always through.,Robert Frost,0.6369,88
+Champions keep playing until they get it right.,Billie Jean King,0.6369,89
+"The best time to plant a tree was twenty years ago, the second-best time is right now.",Chinese Proverb,0.6369,90
+The best way to predict the future is to invent it.,Alan Kay,0.6369,91
+Write it on your heart that every day is the best day in the year.,Ralph Waldo Emerson,0.6369,92
+Never let your memories be greater than your dreams.,Doug Ivester,0.6369,93
+"I think laziness is a cardinal sin -- not in the sense that you should always keep busy, but in the sense that if you have the potential to create something that can be useful to others, then you should do everything you can to make it happen.",François Chollet,0.6369,94
+"Every morning, I imagine creating a new business that needs to be sold by the end of the day. I better hustle today!","Manuel Amuantegui, Finding Motivation in Unusual Places",0.6588,95
+The highest profits are made in trades that show a profit right from the start.,Jesse Livermore,0.7003,96
+"Fact is, no one cares about your marketing goals. But everyone likes a good story.",Shane Snow,0.7579,97
+"It is much more difficult to judge oneself than to judge others. If you succeed in judging yourself rightly, then you are indeed a man of true wisdom.",Antoine de Saint-Exupéry,0.7655,98
+The first principle is that you must not fool yourself and you are the easiest person to fool.,Richard Feynman,0.7658,99
+The best dreams happen when you’re awake.,Cherie Gilderbloom,0.7845,100
+Remember that sometimes not getting what you want is a wonderful stroke of luck.,Dalai Lama,0.7906,101
+I'm sure the universe is full of intelligent life. It's just been too intelligent to come here.,Arthur C. Clarke,0.8074,102
+"Don’t wish it were easier, wish you were better.",Jim Rohn,0.8779,103
+"Out yonder there was this huge world, which exists independently of us human beings and which stands before us like a great, eternal riddle, at least partially accessible to our inspection and thinking. The contemplation of this world beckoned like a liberation…",Albert Einstein,0.8939,104
+"Life is beautiful, so long as it is consuming you. When it is rushing through you, destroying you, life is glorious. It is best to roar away, like a fire with a great draught, white-hot to the last bit.",D.H. Lawrence,0.9313,105
+I offer you peace. I offer you love. I offer you friendship. I see your beauty. I hear your need. I feel your feelings.,Mahatma Gandhi,0.9371,106
+"When we are mindful, deeply in touch with the present moment, our understanding of what is going on deepens, and we begin to be filled with acceptance, joy, peace and love.",Thich Nhat Hanh,0.9382,107
