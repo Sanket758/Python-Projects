@@ -8,11 +8,13 @@ Data.json file is a dictionary where words are stored as key and meaning are sto
 
 
 # Project 2: GUI translator using Python
-Creating a GUI translator using Tkinter 
+Creating a GUI translator using Tkinter  
 ![GUI Translator](https://github.com/Sanket758/Python-Projects/blob/master/GUI%20Translator%20using%20Tkinter/translator.png)
 
-#Project 3: Quotes Website (Shows quotes based on your mood)
+
+# Project 3: Quotes Website (Shows quotes based on your mood)  
 This website Shows quotes by doing sentiment analysis on them, and automatically picks quotes based on your mood, either happy or sad.
+
 
 # Project 4:Chatbot Front End using Tkinter
 This is a front end design for a chatbot application using Tkinter. 
